@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "716575288383",
+    "project_id": "funolympictrackerapp",
+    "storage_bucket": "funolympictrackerapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716575288383:android:6dd161a77f816676f61c8a",
+        "android_client_info": {
+          "package_name": "com.example.funolympictrackerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716575288383-52kccfr8ecceg9us3fmald9f8drtppdn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdU7SRYK4flFVx54swsAxAUlvmfWFx4Qg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716575288383-52kccfr8ecceg9us3fmald9f8drtppdn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

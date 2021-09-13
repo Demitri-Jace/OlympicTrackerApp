@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FunOlympicTrackerApp</string>
+    <string name="non_administration">Non-Administration</string>
+    <string name="email_address">Email Address</string>
+    <string name="logo">LOGO</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log in</string>
+    <string name="register">Register</string>
+    <string name="administration">Administration</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="todo">TODO</string>
+
+</resources>
